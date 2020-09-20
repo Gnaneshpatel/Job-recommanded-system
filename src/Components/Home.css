@@ -1,0 +1,20 @@
+
+.back{
+    height: 85vh;
+    width: auto;
+    background-image: url("https://mdbootstrap.com/img/Photos/Others/gradient1.jpg");
+}
+
+.carousel img {
+    height: 85vh!important;
+  }
+
+.edu{
+    height: 150px;
+    widows: 150px;
+}
+
+.studentCard{
+    height: 150px;
+    widows: 150px;
+}
